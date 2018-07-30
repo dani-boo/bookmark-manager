@@ -9,5 +9,5 @@ As a User
 So that I can access saved websites
 I want to see a list of bookmarks
 
-*Domain Model*
+*Domain Model*  
 ![Domain Model for User Story 1](https://github.com/Whatapalaver/bookmark_manager/blob/master/images/User_story_1.jpg)
