@@ -1,6 +1,6 @@
 # Start of Pairing Challenge - Bookmark Manager
 
-## Day1 - pairing with Dani
+## Day 1 - pairing with Dani
 
 ### User Story 1 - "Show a list of all bookmarks"
 
